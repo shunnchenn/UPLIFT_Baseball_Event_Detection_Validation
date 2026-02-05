@@ -1,1 +1,1 @@
-# UPLIFT-event-detection-validation
+# UPLIFT-Event-Detection-Validation
