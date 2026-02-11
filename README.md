@@ -18,7 +18,7 @@ This study evaluates the accuracy and reliability of automated event detection f
 ## Data
 
 ### Main Comparison Data
-- **Hitting** (`data/hitting_data.csv`): 198 trials comparing UPLIFT vs human annotations
+- **Hitting** (`data/hitting_data.csv`): 200 trials comparing UPLIFT vs human annotations
 - **Pitching** (`data/pitching_data.csv`): 108 trials comparing UPLIFT vs human annotations
 
 ### Inter-Rater Reliability Data
