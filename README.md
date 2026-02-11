@@ -38,7 +38,7 @@ This study evaluates the accuracy and reliability of automated event detection f
 event-detection-validation/
 ├── README.md
 ├── data/
-│   ├── hitting_data.csv           # Auto vs Human comparison (n=198)
+│   ├── hitting_data.csv           # Auto vs Human comparison (n=200)
 │   ├── pitching_data.csv          # Auto vs Human comparison (n=108)
 │   ├── hitting_inter_rater.csv    # Shun vs Ricky (n=22)
 │   └── pitching_inter_rater.csv   # Shun vs Ricky (n=13)
